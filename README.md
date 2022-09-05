@@ -1,2 +1,2 @@
 # to_do_list
-Projeto consiste em uma lista de afazeres
+O projeto consiste em uma lista de afazeres utilizando HTML, CSS e JavaScript.
